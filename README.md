@@ -6,4 +6,4 @@ For fullfilment of the Assignment 2 Dynamic SVG Game project:
 http://martin-mok-tin-kui.github.io/COMP-4021-Internet-Computing/hkust/assignments/a2/a2.pdf  
 http://martin-mok-tin-kui.github.io/COMP-4021-Internet-Computing/hkust/assignments/a2/flip_player/index.html  
 http://martin-mok-tin-kui.github.io/COMP-4021-Internet-Computing/hkust/assignments/a2/platforms/index.html  
-Notice: This game use cookies to store players rank for different player names you entered each time you play this gmae.
+### Notice: This game use cookies to store players rank for player names entered each time you play this game.
